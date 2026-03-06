@@ -1,6 +1,7 @@
 # Hi, I'm Nima 👋
 
-AI Systems Builder focused on building real-world AI products, decision engines, and intelligent automation systems.
+AI Systems Builder | Behavioral AI & Decision Intelligence
+Building real-world AI products, automation systems, and intelligent decision engines.
 
 Founder of **Selphlyze** — an AI platform combining psychology, behavioral science, and artificial intelligence.
 
@@ -41,6 +42,28 @@ Combining:
 - Behavioral forecasting
 - AI-based personality analysis
 - Human-centered decision systems
+
+## Additional Systems in Development
+
+### Contlyze AI
+AI-powered content and marketing intelligence system designed to analyze digital content performance, audience signals, and behavioral engagement patterns.
+
+Core ideas:
+- AI content analysis
+- marketing signal detection
+- engagement prediction
+- insight generation for content strategy
+
+---
+
+### Nekras Group AI System
+Business intelligence and automation platform designed for enterprise decision support and operational optimization.
+
+Core capabilities:
+- workflow automation
+- AI decision support
+- business data analysis
+- intelligent reporting systems
 
 ---
 
