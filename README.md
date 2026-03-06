@@ -19,6 +19,16 @@ I focus on building **practical AI systems that solve real business problems**.
 
 ---
 
+AI Systems Portfolio
+
+
+AI Marketing Intelligence
+Atieh AI
+Contlyze AI
+Nekras AI
+Selphlyze
+
+
 ## 🧠 Featured Projects
 
 ### 🦷 Atieh AI
