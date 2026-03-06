@@ -1,7 +1,8 @@
 # Hi, I'm Nima 👋
 
 AI Systems Builder | Behavioral AI & Decision Intelligence
-Building real-world AI products, automation systems, and intelligent decision engines.
+
+I design and build real-world AI systems that combine behavioral science, data intelligence, and automation to solve complex business problems.
 
 Founder of **Selphlyze** — an AI platform combining psychology, behavioral science, and artificial intelligence.
 
@@ -14,6 +15,7 @@ Founder of **Selphlyze** — an AI platform combining psychology, behavioral sci
 • Behavioral AI Systems  
 • Data-Driven Scoring Systems  
 • Intelligent Scheduling Platforms  
+  AI Marketing Intelligence Systems
 
 I focus on building **practical AI systems that solve real business problems**.
 
@@ -86,8 +88,15 @@ AI Decision Engines
 Data Pipelines  
 SQLite / Data Modeling  
 Workflow Automation  
+OpenAI API
+Next.js
+TypeScript
+AI Content Automation
 
 ---
+🔗 Repository:
+https://github.com/nimasaraeian/nima-portfolio
+
 
 ## 🎯 Current Focus
 
